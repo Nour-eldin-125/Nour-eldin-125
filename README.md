@@ -43,9 +43,7 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-![Nour Eldin's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nour-eldin-125&show_icons=true&count_private=true&line_height=27&hide_border=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nour-eldin-125&layout=compact&hide_border=true&theme=radical)](https://github.com/Nour-eldin-125/github-readme-stats)
+![Nour Eldin's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nour-eldin-125&show_icons=true&count_private=true&line_height=27&hide_border=true&theme=radical) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nour-eldin-125&layout=compact&hide_border=true&theme=radical)](https://github.com/Nour-eldin-125/github-readme-stats)
 
 ## 🌟 Languages
 
