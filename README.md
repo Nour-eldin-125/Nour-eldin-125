@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=40&color=CE33F7&center=true&vCenter=true&multiline=true&width=600&height=150&lines=Hello%2C+I+am+Nour+Eldin;Computer+Vision+Engineer)](https://git.io/typing-svg)
 
-👋 Welcome to my GitHub profile! I'm Nour Eldin Elsheriny, a Computer Vision Engineer with a passion for deep learning and data science.
+<!-- 👋 Welcome to my GitHub profile! I'm Nour Eldin Elsheriny, a Computer Vision Engineer with a passion for deep learning and data science.
 
-## About Me
-
+## About Me-->
 - 🔭 I'm highly motivated and committed to contributing to the development of artificial intelligence for computer vision and data science applications.
 - 🎓 I recently graduated with a Bachelor of Engineering in Data Science from Ain Shams University.
 - 📫 You can reach me via email at noureldinelsherbiny5@gmail.com.
