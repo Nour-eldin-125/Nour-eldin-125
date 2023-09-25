@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <hr/>
+
 ## Let's Connect!
 
 If you're interested in collaborating, discussing deep learning, or have any questions, feel free to connect with me. I'm always open to new opportunities and discussions.
