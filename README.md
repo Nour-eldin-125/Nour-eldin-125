@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 <!-- # Nour Eldin Elsheriny -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=40&color=CE33F7&center=true&vCenter=true&multiline=true&width=600&height=150&lines=Hello%2C+I+am+Nour+Eldin;Computer+Vision+Engineer)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=40&color=CE33F7&center=true&vCenter=true&multiline=true&width=600&height=150&lines=Hello%2C+I+am+Nour+Eldin;Computer+Vision+Engineer" alt="Typing SVG" style = "width:100%"/>
+</a>
 
 <!-- 👋 Welcome to my GitHub profile! I'm Nour Eldin Elsheriny, a Computer Vision Engineer with a passion for deep learning and data science.
 
